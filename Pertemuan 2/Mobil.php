@@ -2,7 +2,7 @@
 
 class Mobil {
     public $nama,
-    public $merek,
+    public $merk,
     public $warna,
     public $kecepatanMaksimal,
     public $jumlahPenumpang;
